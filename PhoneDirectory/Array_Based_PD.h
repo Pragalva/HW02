@@ -55,7 +55,7 @@ public:
 private:
 	class Directory_Entry /* Exercise 1.6: Please complete the definition of the Directory_Entry class here. - Ed/Kent */
 	{
-	public:
+	public://edited by Pragalva Dhungana and Levi Russell
 		Directory_Entry() {}//default no-argument constructor
 		Directory_Entry(std::string the_name, std::string the_number)
 		{
